@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou Leandro de Sa
-- 👨🏽‍🎓 Estou cursado Ciência da Computação
-- 🌱 Estou me especializando em desenvolvimento web
-- 💞️ Estou em busca de conhecimento na area de front-end
+- 👨🏽‍🎓 Estou cursando Ciência da Computação
+- 💻 Estou me especializando em desenvolvimento web
+- 👨🏽‍💻 Estou em busca de conhecimento na area de front-end
 
 ##
 
